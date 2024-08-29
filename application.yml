@@ -1,6 +1,6 @@
 spring:
  application:
-  name: SERVICE-DEV
+  name: SERVICE-DEFAULT
 eureka:
   instance:
     hostname: localhost
