@@ -1,6 +1,3 @@
-spring:
- application:
-  name: SERVICE-DEV
 eureka:
   instance:
     hostname: localhost
