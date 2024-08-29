@@ -1,8 +1,6 @@
-server:
- port: 8085
 spring:
  application:
-  name: USER-SERVICE-DEV
+  name: SERVICE-DEV
 eureka:
   instance:
     hostname: localhost
